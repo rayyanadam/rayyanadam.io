@@ -1,0 +1,223 @@
+body{
+    background-color: rgb(232, 196, 229);
+}
+
+#vitae{
+    padding-top: 26px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: white;
+}
+
+header{
+    position: fixed;
+    background-color: grey;
+    height: 80px;
+    width: 100%;
+}
+
+#menu{
+    float: right;
+    padding-top: 30px;
+}
+
+a{
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 14px 25px;
+}
+
+a:hover{
+    background-color: rgb(234, 137, 234);
+}
+
+a:active{
+    background-color: rgb(231, 8, 149);
+}
+
+h3{
+    color: purple;
+    padding: 10px;
+}
+
+span{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+#big_div{
+    margin-top: 90px;
+}
+
+#info_1{
+    width: 700px;
+    height: 500px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_2{
+    width: 700px;
+    height: 450px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_3{
+    width: 700px;
+    height: 300px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_4{
+    width: 700px;
+    height: 300px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_5{
+    width: 700px;
+    height: 300px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_6{
+    width: 700px;
+    height: 380px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_7{
+    width: 700px;
+    height: 270px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#info_8{
+    width: 700px;
+    height: 280px;
+    border: 7px solid rgb(236, 134, 197);
+    margin-left: 300px;
+    background-color: white;
+}
+
+#personal_info{
+    width: 400px;
+    height: 350px;
+    border: 5px solid purple;
+    padding-left: 50px;
+    margin-left: 100px;
+    background-color: rgb(236, 134, 197);
+}
+
+tr, th, td{
+    border: 2px solid black;
+}
+
+#education_info{
+    width: 600px;
+    height: 300px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+}
+
+#experience_info{
+    width: 550px;
+    height: 150px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+}
+
+#skills_info{
+    width: 550px;
+    height: 150px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+}
+
+#professional_info{
+    width: 500px;
+    height: 170px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+    padding-left: 35px;
+}
+
+#project_info{
+    width: 600px;
+    height: 250px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+}
+
+#management_info{
+    width: 480px;
+    height: 150px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+    padding-left: 70px;
+}
+
+#dependents_info{
+    width: 480px;
+    height: 170px;
+    border: 5px solid purple;
+    margin-left: 50px;
+    background-color: rgb(236, 134, 197);
+    padding-left: 70px;
+}
+
+#my_form{
+    border: 3px solid purple;
+    width: 350px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 450px;
+    padding-top: 30px;
+    padding-bottom: 2px;
+    padding-left: 50px;
+}
+
+#con_form{
+    border: 3px solid purple;
+    width: 450px;
+    height: 350px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding-left: 150px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+}
+
+textarea{
+    width: 300px;
+}
+
+iframe{
+    float: right;
+}
+
